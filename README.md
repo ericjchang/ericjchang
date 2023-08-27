@@ -12,10 +12,13 @@
 </a>
 </div>
 
-### Languages, Tools, and Skills 🛠
-
 <!-- Languages -->
 <div align="center">
+
+---
+
+### Languages, Tools, and Skills 🛠
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -65,12 +68,13 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
 </div>
 
+<div align="center">
+
+---
+
 ### GitHub Stats 📈
 
-<div align="center">
 <a href="https://github.com/ericjchang">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericjchang&layout=compact&hide_progress=true" alt="Eric's Language Stats" vertical-align="middle"/>
           </a>
 <div>
-
----
