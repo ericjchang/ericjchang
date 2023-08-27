@@ -14,8 +14,7 @@
 
 <!-- Languages -->
 <div align="center">
-
----
+<br/>
 
 ### Languages, Tools, and Skills 🛠
 
@@ -69,8 +68,7 @@
 </div>
 
 <div align="center">
-
----
+<br/>
 
 ### GitHub Stats 📈
 
